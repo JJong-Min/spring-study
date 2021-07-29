@@ -18,4 +18,4 @@
 
 # 폴더에 대한 설명
 
-1. [hello-spring]은 [김영한님 무료 강의](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard)의 섹션 1. 프로젝트 환경설정을 보며 진행한 실습 코드입니다. <br/> 코드에 대한 기본적인 설명은 코드에 주석을 달았습니다.
+1. [hello-spring]은 [김영한님 무료 강의](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard)의 **섹션 1. 프로젝트 환경설정**을 보며 진행한 실습 코드입니다. <br/> 코드에 대한 기본적인 설명은 코드에 주석을 달았습니다.
